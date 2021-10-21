@@ -1,2 +1,2 @@
-MoodAnalyzerTest.java
- MoodAnalyzerTest
+MoodNalyzer/MoodAnalyzerTest.java
+ MoodNalyzer.MoodAnalyzerTest
